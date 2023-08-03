@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://dim-spo.ru'
+url = 'http://вашсайт'
 
 response = requests.get(url)
 response.raiseforstatus()
